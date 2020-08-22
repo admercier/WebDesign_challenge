@@ -35,12 +35,14 @@ img {
   }
   
   .navbar{
-      position: absolute;
+      position: left;
       right: 30px;
+      padding: 10px;
   }
   
   .navbar a{
     background-color:white;
+    padding: 10px;
   }
   
   body {
@@ -59,6 +61,7 @@ img {
   .homebtn{
     background-color: white;
     z-index:2;
+    padding: 10px;
   }
   
   .homebtn a{
