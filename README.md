@@ -1,4 +1,4 @@
-#View Web Design Output here
+# View Web Design Output here
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
